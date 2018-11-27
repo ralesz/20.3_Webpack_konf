@@ -1,0 +1,26 @@
+{
+  "name": "20.3_Webpack_konf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralesz/20.3_Webpack_konf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralesz/20.3_Webpack_konf/issues"
+  },
+  "homepage": "https://github.com/ralesz/20.3_Webpack_konf#readme"
+}
